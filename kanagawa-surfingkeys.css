@@ -1,0 +1,27 @@
+settings.theme = `
+.sk_theme {
+	background: #1F1F28;
+	color: #DCD7BA;
+}
+.sk_theme tbody {
+	color: #98BB6C;
+}
+.sk_theme input {
+	color: #D9DCE0;
+}
+.sk_theme .url {
+	color: #76946;
+}
+.sk_theme .annotation {
+	color: #957FB8;
+}
+.sk_theme .omnibar_highlight {
+	color: #333;
+	background: #DCD7BA;
+}
+.sk_theme #sk_omnibarSearchResult ul>li:nth-child(odd) {
+	background: #2D4F67;
+}
+.sk_theme #sk_omnibarSearchResult ul>li.focused {
+	background: #938AA9;
+}
